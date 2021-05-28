@@ -1,12 +1,13 @@
 
+.header1{
+  text-align: center;
+}
 .sidebar{
   float: right;
   background-color: yellow;
 
 }
-.header{
-  text-align: center;
-}
+
 .content{
   text-align: justify;
   font-size: 12px;
@@ -20,4 +21,12 @@
 ul{
   text-align: center;
   list-style-position: inside;
+}
+
+.border {
+  margin: 20px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: rgb(244, 247, 250);
+  box-sizing: border-box;
 }
