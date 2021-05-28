@@ -1,8 +1,9 @@
-.column{
-  float: left;
-  width: 300px;
-}
 
+.sidebar{
+  float: right;
+  background-color: yellow;
+
+}
 .header{
   text-align: center;
 }
