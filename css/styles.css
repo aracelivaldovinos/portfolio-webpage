@@ -1,7 +1,8 @@
 
 .header1{
   text-align: center;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(132, 132, 168);
   
 }
 
@@ -41,4 +42,17 @@ ul{
 
 .colors{
   color: red;
+}
+
+.center1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.style1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.images{
+  border: 2px solid black;
 }
