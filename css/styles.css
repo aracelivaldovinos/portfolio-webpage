@@ -1,7 +1,10 @@
 
 .header1{
   text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  
 }
+
 .sidebar{
   float: right;
   background-color: yellow;
@@ -18,6 +21,11 @@
   text-align: center;
 }
 
+.size {
+  text-align: center;
+  font-size: 12px;
+}
+
 ul{
   text-align: center;
   list-style-position: inside;
@@ -29,4 +37,8 @@ ul{
   padding: 4px;
   background-color: rgb(244, 247, 250);
   box-sizing: border-box;
+}
+
+.colors{
+  color: red;
 }
