@@ -16,11 +16,11 @@ _This portfolio webpage is created using HTML, CSS, and Bootstrap language to ad
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone the repository to desktop_
+* _Create a new project in GitHub and copy link_
+* _Navigate to the top level of project directory_
+* _Push cloned project with new identifier and using copied link_
+* _https://aracelivaldovinos.github.io/portfolio-webpage/_
 
 
 ## Known Bugs\Goals
