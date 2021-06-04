@@ -17,9 +17,8 @@ _This portfolio webpage is created using HTML, CSS, and Bootstrap language to ad
 ## Setup/Installation Requirements
 
 * _Clone the repository to desktop_
-* _Create a new project in GitHub and copy link_
-* _Navigate to the top level of project directory_
-* _Push cloned project with new identifier and using copied link_
+* _Navigate inside the folder (cloned repository on desktop)_
+* _open index.html_
 * _https://aracelivaldovinos.github.io/portfolio-webpage/_
 
 
