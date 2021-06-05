@@ -17,7 +17,7 @@ _This portfolio webpage is created using HTML, CSS, and Bootstrap language to ad
 ## Setup/Installation Requirements
 
 * _Clone the repository to desktop_
-* _Navigate inside the folder 
+* _Navigate inside the folder_
 * _open index.html_
 * _https://aracelivaldovinos.github.io/portfolio-webpage/_
 
